@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/huertas88/yii2-app-advanced.png?label=ready&title=Ready)](https://waffle.io/huertas88/yii2-app-advanced?utm_source=badge)
 Yii 2 Advanced Project Template
 ===============================
 
